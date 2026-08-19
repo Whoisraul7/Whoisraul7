@@ -12,16 +12,6 @@
 
 </div>
 
-> SYSTEM.IDENTITY
-╔══════════════════════════════════════════════════════════════╗
-║ RAUL PEDRO // PROFILE ║
-╠══════════════════════════════════════════════════════════════╣
-║ ROLE : Cybersecurity & Technology Enthusiast ║
-║ SPECIALTY : Pentest • Red Team • Security Research ║
-║ STATUS : ONLINE ║
-║ MODE : BUILD → BREAK → SECURE ║
-║ MISSION : Learn. Build. Explore. Secure. ║
-╚══════════════════════════════════════════════════════════════╝
 > ABOUT_ME
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/terminal.gif" alt="Terminal"/>
