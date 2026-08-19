@@ -14,13 +14,13 @@
 
 > SYSTEM.IDENTITY
 ╔══════════════════════════════════════════════════════════════╗
-║                     RAUL PEDRO // PROFILE                    ║
+║ RAUL PEDRO // PROFILE ║
 ╠══════════════════════════════════════════════════════════════╣
-║ ROLE       : Cybersecurity & Technology Enthusiast           ║
-║ SPECIALTY  : Pentest • Red Team • Security Research          ║
-║ STATUS     : ONLINE                                           ║
-║ MODE       : BUILD → BREAK → SECURE                           ║
-║ MISSION    : Learn. Build. Explore. Secure.                   ║
+║ ROLE : Cybersecurity & Technology Enthusiast ║
+║ SPECIALTY : Pentest • Red Team • Security Research ║
+║ STATUS : ONLINE ║
+║ MODE : BUILD → BREAK → SECURE ║
+║ MISSION : Learn. Build. Explore. Secure. ║
 ╚══════════════════════════════════════════════════════════════╝
 > ABOUT_ME
 
