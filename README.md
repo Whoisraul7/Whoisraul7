@@ -135,12 +135,20 @@ HTML CSS JavaScript
 └─$ cat objectives.txt
 
 [01] ████████████████████  Cybersecurity
+<br>
 [02] █████████████████░░░  Python Development
+<br>
 [03] ███████████████░░░░░  Pentesting
+<br>
 [04] ██████████████░░░░░░  Red Team
+<br>
 [05] █████████████░░░░░░░  Web Development
+<br>
 [06] ████████████░░░░░░░░  Automation
+<br>
 [07] ██████████░░░░░░░░░░  Open Source
+
+<br>
 
 STATUS: LEARNING...
 NEXT TARGET: LEVEL UP
