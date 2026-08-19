@@ -60,75 +60,7 @@ WEB & DEVELOPMENT
 
 </div>
 
-> FEATURED_PROJECTS
 
-<div align="center">
-
-<table> <tr>
-
-<td width="50%" valign="top">
-
-🛡️ Cybersecurity Lab
-
-Projeto de estudos focado em segurança ofensiva, análise de vulnerabilidades e automação de tarefas de cybersecurity.
-
-Stack
-
-Python Bash Linux Security
-
-<a href="https://github.com/SEU_USUARIO/cybersecurity-lab"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00F0FF?style=for-the-badge&logo=github&logoColor=black"/> </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-🔎 Security Scanner
-
-Ferramenta experimental para automatizar processos de reconhecimento e análise de segurança em ambientes autorizados.
-
-Stack
-
-Python Networking Automation
-
-<a href="https://github.com/SEU_USUARIO/security-scanner"> <img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-🤖 Automation Lab
-
-Coleção de scripts e ferramentas para automatização de tarefas utilizando Python.
-
-Stack
-
-Python APIs Automation
-
-<a href="https://github.com/SEU_USUARIO/automation-lab"> <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black"/> </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-🌐 Web Projects
-
-Projetos experimentais envolvendo desenvolvimento web, interfaces modernas e aplicações JavaScript.
-
-Stack
-
-HTML CSS JavaScript
-
-<a href="https://github.com/SEU_USUARIO/web-projects"> <img src="https://img.shields.io/badge/VIEW_PROJECT-FF00AA?style=for-the-badge&logo=github&logoColor=white"/> </a>
-
-</td>
-
-</tr> </table>
-
-</div>
 
 > CURRENT_OBJECTIVES
 ┌──[raul@github]─[~/mission]
